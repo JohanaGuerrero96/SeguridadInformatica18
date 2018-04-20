@@ -1,0 +1,116 @@
+#menu{
+
+   width: 900px;
+   height: auto;
+   margin: auto;
+   position: relative;
+   text-align:center;
+
+}
+
+
+body{
+
+   background-image: url(../img/casa.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+h1,{
+   font-family: Verdana;
+   color:#66FFFF;
+   margin-left: 40px;
+   font-size: 30px;
+   text-align: center;
+}
+
+h2, h4,h6{
+   font-family: Century Gothic;
+   color:#006680;
+   margin-left: 15px;
+   font-size: 30px;
+}
+
+h3,h5, h7 {
+   font-family: cursive;
+   color:#A329CC;
+   margin-left: 15px;
+   font-size: 25px;
+}
+
+p {
+  color: Black;
+  font-family: Arial Narrow;
+  font-size: 30px;
+  font-weight: 20;
+  text-align: justify;
+  font-weight: 70;
+}
+
+header{
+
+	width: 1000px;
+	height: 562px;
+
+}
+
+nav{
+
+	width: 995px;
+	height: 70px;
+	background: #FFFFFF;
+	border: solid;
+	border-color:#004669; 
+	border-radius: 10px; 
+	border-top-right-radius: 0;
+	border-top-left-radius: 0;
+}
+
+ul{
+
+   margin:auto;
+   padding-top: 4px;
+}
+
+li{
+
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+	margin: 4px;
+	color: Black;
+  font-family: Franklin Gothic Heavy ;
+  font-size: 20px;
+  font-weight: 20;
+  text-align: justify;
+  font-weight: 70;
+}
+
+
+a{
+	text-decoration: none;
+	font-size: 25px;
+	color:#004669;
+
+}
+
+
+
+footer{
+
+	width: 1000px;
+	height: 150px;
+	color:black;
+	font-size: 25px;
+	background: #808080;
+	float:left;
+	margin-top: 20px;
+	border-radius: 30px; 
+	border-top-right-radius: 40;
+	border-top-left-radius: 20;
+	margin-bottom: 20px;
+	text-align:center;
+}
+
+
+
